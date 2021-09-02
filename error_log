@@ -1,0 +1,1 @@
+[14-Jul-2021 14:26:58 Europe/Budapest] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2621440 bytes) in /home/webforyoudev/public_html/perinvest/vendor/composer/autoload_classmap.php on line 4654
